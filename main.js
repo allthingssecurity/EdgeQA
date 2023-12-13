@@ -28,9 +28,9 @@ generateButton.addEventListener('click', async () => {
 //<|im_start|>assistant';
 	const output1 =  await generator(input, { add_special_tokens: true, max_new_tokens: 512, repetition_penalty: 1.2});
 	const res=JSON.stringify(output1);
-    alert(res)
-    
-	output.innerHTML = output1.generated_text;
+    //alert(res)
+    output.innerHTML = res
+	//output.innerHTML = output1.generated_text;
 	
     spinner.classList.remove('show');
     generateButton.removeAttribute("disabled");
