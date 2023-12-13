@@ -8,3 +8,6 @@ Once installed just run live-server from the directory
 Example
 
 ![image](https://github.com/allthingssecurity/EdgeQA/assets/49463903/8e886239-3fe4-47a3-9178-d597601dc399)
+
+![image](https://github.com/allthingssecurity/EdgeQA/assets/49463903/8c61216c-72cf-4216-add5-97840b80c364)
+
